@@ -1,16 +1,19 @@
 # Curso de Python desde Cero
 
-Este curso esta diseñado para aquellso que no tienen conocimiento sobre programacion  
+- En este capitulo debes crear un archivo con tu nombre o seudonimo (Ej: juan.py) 
+- Crea los diferentes tipos de variables existentes en python y asignale un valor.
+- Contactena variables de tipo texto
+- Haz las diferentes operaciones con variable numericas
+- Cambia en valos de una variable booleana
 
-## Como Participar
 
-Haz un fork del proyecto Start a tu repositorio personal  
-Cambia a la rama o branch de tu eleccion  
-Añade el codigo python solicitado en la practica  
-Solicita un pull request de tu codigo al proyecto principal  
+## Commit del archivo
+- Solicita una PR(1) de tu proyecto
+
 
 ## Aceptacion del codigo
 Una vez efectuada la PR(1), el codigo sera revisado por compañeros mas expertos de la comunidad.  
 Este puede ser aceptado, hacer cambios o rechazar.  
 
 
+(1) Pull Request
