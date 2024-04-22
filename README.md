@@ -1,18 +1,21 @@
 # Curso de Python desde Cero
 
-Este curso esta diseñado para aquellso que no tienen conocimiento sobre programacion  
+## Practica de funciones
 
-## Como Participar
+- En esta Practica debes crear un archivo con tu nombre o seudonimo (Ej: juan.py)
+- Crea crea una funcion que sume dos numeros y devuelva el resultado
+- Crea crea una funcion que reste dos numeros y devuelva el resultado
+- Crea crea una funcion que multiplique dos numeros y devuelva el resultado
+- Crea crea una funcion que divida dos numeros y devuelva el resultado
+- Crea una funcion que concatene dos textos y devuelva el resultado
+- Crea una funcion a tu criterio que no devuelva nada
+- Crea una funcion que devuelva el modulo de una division de dos numeros enteros y devuelva el resultado
+- Crea una funcion que devuelva el entero de una division de dos numeros enteros y devuelva el resultado
+- Crea una funcion que devuelva el resultado de la potencia de dos de un numero y devuelva el resultado
+- Crea una funcion que devuelva el resultado de la potencia de dos de un numero y devuelva el resultado
 
-- Haz un fork del proyecto Start a tu repositorio personal  
-<img src="./img/fork.png">
-<img src="./img/fork1.png">
-- Cambia a la rama o branch de tu eleccion  
-<img src="./img/fork3.png">
-- Añade el codigo python solicitado en la practica  
-- Solicita un pull request de tu codigo al proyecto principal  
-
-
+## Pistas
+- Es valido hacer una funcion que cumpla con dos o mas de lo solicitado en la practica.
 
 ## Aceptacion del codigo
 - Una vez efectuada la PR(1), el codigo sera revisado por compañeros mas expertos de la comunidad.  
