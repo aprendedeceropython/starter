@@ -5,9 +5,13 @@ Este curso esta diseñado para aquellso que no tienen conocimiento sobre program
 ## Como Participar
 
 - Haz un fork del proyecto Start a tu repositorio personal  
+<img src="./img/fork.png">
+<img src="./img/fork1.png">
 - Cambia a la rama o branch de tu eleccion  
+<img src="./img/fork3.png">
 - Añade el codigo python solicitado en la practica  
 - Solicita un pull request de tu codigo al proyecto principal  
+
 
 
 ## Aceptacion del codigo
