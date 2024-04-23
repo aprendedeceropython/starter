@@ -1,27 +1,26 @@
 # Curso de Python desde Cero
 
-## Practica de funciones
+## Práctica de funciones
 
-- En esta Practica debes crear un archivo con tu nombre o seudonimo (Ej: juan.py)
-- Crea crea una funcion que sume dos numeros y devuelva el resultado
-- Crea crea una funcion que reste dos numeros y devuelva el resultado
-- Crea crea una funcion que multiplique dos numeros y devuelva el resultado
-- Crea crea una funcion que divida dos numeros y devuelva el resultado
-- Crea una funcion que concatene dos textos y devuelva el resultado
-- Crea una funcion a tu criterio que no devuelva nada
-- Crea una funcion que devuelva el modulo de una division de dos numeros enteros y devuelva el resultado
-- Crea una funcion que devuelva el entero de una division de dos numeros enteros y devuelva el resultado
-- Crea una funcion que devuelva el resultado de la potencia de dos de un numero y devuelva el resultado
-- Crea una funcion que devuelva el resultado de la potencia de dos de un numero y devuelva el resultado
+- En esta práctica debes crear un archivo con tu nombre o seudónimo (ejemplo: juan.py)
+- Crea una función que sume dos números y devuelva el resultado.
+- Crea una función que reste dos números y devuelva el resultado.
+- Crea una función que multiplique dos números y devuelva el resultado.
+- Crea una función que divida dos números y devuelva el resultado.
+- Crea una función que concatene dos textos y devuelva el resultado.
+- Crea una función a tu criterio que no devuelva nada.
+- Crea una función que devuelva el módulo de una división de dos números enteros y devuelva el resultado.
+- Crea una función que devuelva el entero de una división de dos números enteros y devuelva el resultado.
+- Crea una función que devuelva el resultado de la potencia de dos de un número y devuelva el resultado.
 
 ## Pistas
-- Es valido hacer una funcion que cumpla con dos o mas de lo solicitado en la practica.
+- Es valido hacer una función que cumpla con dos o más de lo solicitado en la práctica.
 
-## Aceptacion del codigo
-- Una vez efectuada la PR(1), el codigo sera revisado por compañeros mas expertos de la comunidad.  
-- Este puede ser aceptado, hacer cambios o rechazar.  
+## Aceptación del código
+- Una vez efectuada la PR(1), el código será revisado por compañeros más expertos de la comunidad.  
+- Este puede ser aceptado, modificado o rechazado.  
 
 
-## Como seleccionar cada practica
+## Como seleccionar cada práctica
 
-- Solo debes cambiarte al branch o rama de cada practica y seguir las instrucciones.
+- Solo debes cambiarte al branch o rama de cada práctica y seguir las instrucciones.
