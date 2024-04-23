@@ -1,6 +1,6 @@
 # Curso de Python desde Cero
 
-Este curso esta diseñado para aquellso que no tienen conocimiento sobre programacion  
+Este curso esta diseñado para aquellos que no tienen conocimiento sobre programacion  
 
 ## Como Participar
 
