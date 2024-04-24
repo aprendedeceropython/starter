@@ -14,7 +14,7 @@
 - Crea una función que devuelva el resultado de la potencia de dos de un número y devuelva el resultado.
 
 ## Pistas
-- Es valido hacer una función que cumpla con dos o más de lo solicitado en la práctica.
+- Es válido crear una función que cumpla con dos o más de los requisitos solicitados en la práctica.
 
 ## Aceptación del código
 - Una vez efectuada la PR(1), el código será revisado por compañeros más expertos de la comunidad.  
@@ -22,5 +22,4 @@
 
 
 ## Como seleccionar cada práctica
-
-- Solo debes cambiarte al branch o rama de cada práctica y seguir las instrucciones.
+- Solo debes cambiarte al `branch` o rama de cada práctica y seguir las instrucciones.
