@@ -9,17 +9,9 @@
 
 
 # Pistas
-- Debes tener Python instalado en tu PC (es recomendable que marques la opción de añadir Python al PATH).
-- Puedes comprobar que Python está instalado si abres una ventana de terminal y escribes `python --version`. Según tu sistema operativo y la versión del programa, Python puede tener otro nombre: `py`, `python3`.
-- Si no dispones de un editor para programar (IDE), puedes escribir el código con un bloc de notas; o simplemente escribe `python` en tu consola. Aparecerá esto al inicio de la línea `>>>` y podrás escribir tus líneas de código. Escribe `exit()` para salir del modo interactivo.
 - Dentro del código, usa el comando `print(nombre_variable)` para observar el resultado de las operaciones solicitadas en la práctica.
-- Para poder ejecutar tu aplicación, escribe en una consola de tu sistema operativo `python nombre_de_tu_aplicacion.py`.
+- Si no tienes claro qué tipo de variable has creado, prueba el comando `type()`: `print(type(nombre_variable))` en el código y ejecuta el programa.
 - Presta atención a los resultados de cada una de las líneas de código de salida.
-
-> 💡 **Terminales**  
-> - Un emulador de terminal o de consola te permite comunicarte con tu equipo mediante sentencias y órdenes.  
-> - En Windows, puedes usar una ventana de PowerShell o de Símbolo del sistema (CMD). En MacOs, abre Terminal. En Linux dependerá de la distribución.  
-> - Los editores (IDE) como Visual Studio Code integran estos programas para que puedas ejecutar tu código sin necesidad de salir de ellos.
 
 
 ## Commit del archivo
