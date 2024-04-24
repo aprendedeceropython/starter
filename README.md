@@ -7,16 +7,13 @@
 - Cambia el valor de una variable booleana.
 - Suma una variable de texto con una variable numérica.
 
-
 # Pistas
 - Dentro del código, usa el comando `print(nombre_variable)` para observar el resultado de las operaciones solicitadas en la práctica.
 - Si no tienes claro qué tipo de variable has creado, prueba el comando `type()`: `print(type(nombre_variable))` en el código y ejecuta el programa.
 - Presta atención a los resultados de cada una de las líneas de código de salida.
 
-
 ## Commit del archivo
 - Solicita una PR(1) de tu proyecto.
-
 
 ## Aceptación del código
 - Una vez efectuada la PR(1), el código será revisado por compañeros más expertos de la comunidad.  
