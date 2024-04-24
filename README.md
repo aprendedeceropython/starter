@@ -1,18 +1,18 @@
-# Curso de Python desde Cero
+# Curso de Python desde cero
 
-Este curso está diseñado para aquellos que no tienen conocimiento sobre programación.  
+Este curso está diseñado para aquellos que no tienen conocimientos de programación.  
 
-## Como Participar
+## Cómo participar
 
-- Haz un fork del proyecto [starter](https://github.com/aprendedeceropython/starter) a tu repositorio personal:  
+- Haz un `fork` del proyecto [starter](https://github.com/aprendedeceropython/starter) a tu repositorio personal:  
 <img src="./img/fork.png">
 <img src="./img/fork1.png">
 
-- Cambia a la rama o branch de tu elección:  
+- Cambia a la rama o `branch` de tu elección:  
 <img src="./img/fork3.png">
 
 - Añade el código Python solicitado en la práctica.  
-- Solicita un pull request de tu código al proyecto principal.  
+- Solicita un `pull request` de tu código al proyecto principal.  
 
 
 
@@ -21,6 +21,6 @@ Este curso está diseñado para aquellos que no tienen conocimiento sobre progra
 - Este puede ser aceptado, modificado o rechazado.  
 
 
-## Como seleccionar cada práctica
+## Cómo seleccionar cada práctica
 
-- Solo debes cambiarte al branch o rama de cada práctica y seguir las instrucciones.
+- Solo debes cambiarte al `branch` o rama de cada práctica y seguir las instrucciones.
