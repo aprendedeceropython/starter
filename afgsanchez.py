@@ -1,3 +1,5 @@
+# Declaración de variables.
+
 # variables tipo integer (enteros)
 entero = 5
 entero1 = 6
@@ -43,5 +45,45 @@ print(entero + entero1, " - Suma de integer")
 # Suma entero + flotante
 f = entero + flotante1
 print(f, " - Suma de integer + float")
+# Resta
+print(entero - entero1, " - Resta de integer")
+# Multiplicación
+print(entero * flotante, " - Multiplicacion entre enteros y flotantes")
+# Division
+print(entero / flotante, " - División entre entero y flotante")
+#Residuo
+print(entero1 % entero, " - Residuo de dividir entero1 entre entero")
+# Potenciación
+print(entero ** entero1, " - ejemplo de potenciación, en este caso entero elevado a entero1")
+print()
+
+# Cambia el valor de una variable booleana.
+print("El valor de la variable boleano es: ", boleano)
+respuesta = input("Quieres cambiar el valor? yes/no: ")
+if respuesta == "yes":
+    boleano = False
+elif respuesta == "no":
+    print("No cambio en valor")
+else:
+    print("Debes elegir yes/no")
+    exit()
+print("El valor de la variable boleano es: ", boleano)
+print()
+
+# Suma una variable de texto con una variable numérica.
+variable_numerica = 4
+variable_texto = "2"
+# convierto la variable_texto a una variable numerica
+variable_texto = int(variable_texto)
+# Hago la suma
+suma = variable_numerica + variable_texto
+print(suma)
+
+
+
+
+
+
+
 
 
